@@ -1,0 +1,4 @@
+([30/31]:July:2022)
+Converted all (class based components) into the (function based components)
+
+class_based_components: https://github.com/imtiyazhasankhan/news-india-v1.0
